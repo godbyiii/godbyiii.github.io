@@ -1,0 +1,21 @@
+.footer {
+    background-color: #3b5d75;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    overflow: hidden; /* Hides extra white space */
+  }
+  
+  .footer icon {
+    padding: 12px 16px;
+    font-size: 45px;
+    color: #7395AE;
+  }
+
+  .footer icon:hover {
+    padding: 12px 16px;
+    font-size: 45px;
+    color: #B1A296;
+  }
+  

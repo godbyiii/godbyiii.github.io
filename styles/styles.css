@@ -1,0 +1,33 @@
+body {
+  background-color: #5D5C61;
+  background-image: url("/images/background.png");
+  margin: 0px; /* Removes blank space around sides of footer */
+}
+
+p {
+  font-size: 18px;
+  text-align: center;
+  font-family: 'Arvo', serif;
+  text-shadow: .25px .25px black;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+/* https://www.w3schools.com/howto/howto_css_icon_buttons.asp */
+/* Footer
+https://www.w3schools.com/howto/howto_css_fixed_footer.asp */
+/* Profile Icons
+https://www.w3schools.com/howto/howto_css_profile_card.asp */

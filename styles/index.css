@@ -1,0 +1,51 @@
+
+.introduction {
+  padding: 100px 20px;
+  padding-bottom: 50px;
+}
+
+.skill-cards {
+  padding-bottom: 50px;
+}
+
+
+.portrait {
+    display: inline-block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+    border-style: ridge;
+    border-radius: 25px;
+    border-width: 5px;
+    border-color:#557A95;
+    padding: 10px;
+    width: 30%;
+    text-align: center;
+    background-color: #7395AE;
+  }
+  
+.summary {
+  display: inline-block;
+  vertical-align: top;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  border-style: ridge;
+  border-radius: 25px;
+  border-width: 5px;
+  border-color:#557A95;
+  padding: 16px;
+  width: 69%;
+  background-color: #7395AE;
+}
+
+.skill {
+  display: inline-block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */
+  border-style: ridge;
+  border-radius: 25px;
+  border-width: 5px;
+  border-color:#557A95;
+  padding: 16px;
+  width: 32.5%;
+  text-align: left;
+  background-color: #7395AE;
+
+}
+
